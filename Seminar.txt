@@ -1,3 +1,4 @@
+//code für den Fingerprint
 #ifndef ADAFRUIT_FINGERPRINT_H
 #define ADAFRUIT_FINGERPRINT_H
 
